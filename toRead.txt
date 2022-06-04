@@ -1,0 +1,19 @@
+XGBoost
+CATBoost
+Databricks/ Hadoop
+Tree and Forest
+DBX
+spark
+ftp server
+Gaussian mixture
+TSNE
+
+
+code qustions
+
+- lead time?
+- tender hours?
+data['LEAD_TIME'] = lead_time
+hour=hour%24
+LT - load to truck ratio
+KMA - key market area
